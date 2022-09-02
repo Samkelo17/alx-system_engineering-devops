@@ -1,2 +1,2 @@
-i#/!bin/bash
-mv /temp/betty /temp/my_first_directory
+#!/bin/bash
+mv /tmp/betty /tmp/my_file_directory
